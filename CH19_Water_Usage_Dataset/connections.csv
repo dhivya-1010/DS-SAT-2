@@ -1,0 +1,81 @@
+connection,type,locality,household_size_band
+C001,Residential,Adyar,5+
+C002,commercial,Tambaram,3-4
+C003,Residential,Adyar,5+
+C004,Residential,Adyar,5+
+C005,Residential,T. Nagar,5+
+C006,Commercial,Velachery,3-4
+C007,Residential ,Adyar,1-2
+C008,Residential,T. Nagar,1-2
+C009,Residential,Adyar,1-2
+C010,commercial,Velachery,3-4
+C011,commercial,Adyar,3-4
+C012,Residential,Adyar,3-4
+C013,Residential,Tambaram,5+
+C014,Commercial,Velachery,3-4
+C015,Commercial,Porur,3-4
+C016,Commercial,Anna Nagar,1-2
+C017,Residential,Velachery,3-4
+C018,Residential,Porur,3-4
+C019,Commercial,Porur,1-2
+C020,commercial,Porur,3-4
+C021,Residential,Adyar,3-4
+C022,Residential,Tambaram,5+
+C023,Residential ,Tambaram,1-2
+C024,Residential,T. Nagar,1-2
+C025,Residential ,T. Nagar,3-4
+C026,Residential,Porur,1-2
+C027,Residential,T. Nagar,1-2
+C028,RESIDENTIAL,T. Nagar,1-2
+C029,Residential,Velachery,3-4
+C030,Commercial,Anna Nagar,3-4
+C031,Residential,Anna Nagar,1-2
+C032,Residential,T. Nagar,1-2
+C033,Residential,T. Nagar,1-2
+C034,Residential ,Tambaram,3-4
+C035,Residential,Anna Nagar,3-4
+C036,Commercial,Porur,3-4
+C037,Residential,T. Nagar,3-4
+C038,Residential ,Porur,5+
+C039,commercial,Tambaram,3-4
+C040,Residential,Tambaram,1-2
+C041,Residential,Velachery,3-4
+C042,Residential ,T. Nagar,5+
+C043,Residential,T. Nagar,3-4
+C044,Commercial,Adyar,3-4
+C045,Residential,Porur,3-4
+C046,Residential,Tambaram,3-4
+C047,Residential,Adyar,3-4
+C048,Residential,Anna Nagar,1-2
+C049,Residential,Tambaram,3-4
+C050,Residential ,Anna Nagar,3-4
+C051,Residential,Anna Nagar,5+
+C052,Commercial,Tambaram,3-4
+C053,Residential,Adyar,5+
+C054,Residential,Velachery,3-4
+C055,Residential,Tambaram,3-4
+C056,Residential,Anna Nagar,1-2
+C057,Residential,Tambaram,1-2
+C058,Commercial,Adyar,3-4
+C059,Residential,Adyar,1-2
+C060,Residential,Anna Nagar,1-2
+C061,Residential,T. Nagar,1-2
+C062,Commercial,Tambaram,3-4
+C063,RESIDENTIAL,T. Nagar,1-2
+C064,Residential,Anna Nagar,5+
+C065,Residential,T. Nagar,3-4
+C066,Commercial,Porur,3-4
+C067,Residential,T. Nagar,5+
+C068,Commercial,Tambaram,5+
+C069,Residential,Velachery,5+
+C070,Commercial,T. Nagar,3-4
+C071,RESIDENTIAL,Velachery,5+
+C072,Residential,Anna Nagar,5+
+C073,RESIDENTIAL,T. Nagar,3-4
+C074,Commercial,Tambaram,5+
+C075,Residential ,Velachery,5+
+C076,Residential,T. Nagar,1-2
+C077,Residential,Adyar,5+
+C078,commercial,Porur,5+
+C079,Residential ,Tambaram,3-4
+C080,Commercial,Tambaram,3-4
